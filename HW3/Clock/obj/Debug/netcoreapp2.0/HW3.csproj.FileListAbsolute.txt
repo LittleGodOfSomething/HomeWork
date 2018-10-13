@@ -1,0 +1,10 @@
+G:\C#\SecondCours\HW3\bin\Debug\netcoreapp2.0\HW3.deps.json
+G:\C#\SecondCours\HW3\bin\Debug\netcoreapp2.0\HW3.runtimeconfig.json
+G:\C#\SecondCours\HW3\bin\Debug\netcoreapp2.0\HW3.runtimeconfig.dev.json
+G:\C#\SecondCours\HW3\bin\Debug\netcoreapp2.0\HW3.dll
+G:\C#\SecondCours\HW3\bin\Debug\netcoreapp2.0\HW3.pdb
+G:\C#\SecondCours\HW3\obj\Debug\netcoreapp2.0\HW3.csproj.CoreCompileInputs.cache
+G:\C#\SecondCours\HW3\obj\Debug\netcoreapp2.0\HW3.AssemblyInfoInputs.cache
+G:\C#\SecondCours\HW3\obj\Debug\netcoreapp2.0\HW3.AssemblyInfo.cs
+G:\C#\SecondCours\HW3\obj\Debug\netcoreapp2.0\HW3.dll
+G:\C#\SecondCours\HW3\obj\Debug\netcoreapp2.0\HW3.pdb

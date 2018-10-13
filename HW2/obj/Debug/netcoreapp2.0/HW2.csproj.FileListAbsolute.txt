@@ -1,0 +1,11 @@
+G:\C#\SecondCours\HW2\bin\Debug\netcoreapp2.0\HW2.deps.json
+G:\C#\SecondCours\HW2\bin\Debug\netcoreapp2.0\HW2.runtimeconfig.json
+G:\C#\SecondCours\HW2\bin\Debug\netcoreapp2.0\HW2.runtimeconfig.dev.json
+G:\C#\SecondCours\HW2\bin\Debug\netcoreapp2.0\HW2.dll
+G:\C#\SecondCours\HW2\bin\Debug\netcoreapp2.0\HW2.pdb
+G:\C#\SecondCours\HW2\obj\Debug\netcoreapp2.0\HW2.csprojAssemblyReference.cache
+G:\C#\SecondCours\HW2\obj\Debug\netcoreapp2.0\HW2.csproj.CoreCompileInputs.cache
+G:\C#\SecondCours\HW2\obj\Debug\netcoreapp2.0\HW2.AssemblyInfoInputs.cache
+G:\C#\SecondCours\HW2\obj\Debug\netcoreapp2.0\HW2.AssemblyInfo.cs
+G:\C#\SecondCours\HW2\obj\Debug\netcoreapp2.0\HW2.dll
+G:\C#\SecondCours\HW2\obj\Debug\netcoreapp2.0\HW2.pdb
