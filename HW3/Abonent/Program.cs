@@ -31,6 +31,7 @@ namespace Abonent
         static void Main(string[] args)
         {
             Console.WriteLine("You asshole");
+            Console.WriteLine("I'm kidding");
         }
     }
 }
