@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\C#\\SecondCours\\HW3\\Abonent\\Abonent.csproj",
+      "projectUniqueName": "G:\\C#\\hillelHW\\HW3\\Abonent\\Abonent.csproj",
       "projectName": "Abonent",
-      "projectPath": "G:\\C#\\SecondCours\\HW3\\Abonent\\Abonent.csproj",
+      "projectPath": "G:\\C#\\hillelHW\\HW3\\Abonent\\Abonent.csproj",
       "packagesPath": "C:\\Users\\BBee\\.nuget\\packages\\",
-      "outputPath": "G:\\C#\\SecondCours\\HW3\\Abonent\\obj\\",
+      "outputPath": "G:\\C#\\hillelHW\\HW3\\Abonent\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

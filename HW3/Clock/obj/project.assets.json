@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\C#\\SecondCours\\HW3\\HW3.csproj",
+      "projectUniqueName": "G:\\C#\\hillelHW\\HW3\\Clock\\HW3.csproj",
       "projectName": "HW3",
-      "projectPath": "G:\\C#\\SecondCours\\HW3\\HW3.csproj",
+      "projectPath": "G:\\C#\\hillelHW\\HW3\\Clock\\HW3.csproj",
       "packagesPath": "C:\\Users\\BBee\\.nuget\\packages\\",
-      "outputPath": "G:\\C#\\SecondCours\\HW3\\obj\\",
+      "outputPath": "G:\\C#\\hillelHW\\HW3\\Clock\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

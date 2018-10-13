@@ -30,7 +30,7 @@ namespace Abonent
     {
         static void Main(string[] args)
         {
-           
+            Console.WriteLine("You asshole");
         }
     }
 }
