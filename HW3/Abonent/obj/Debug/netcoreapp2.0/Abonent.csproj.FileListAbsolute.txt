@@ -1,0 +1,11 @@
+G:\C#\hillelHW\HW3\Abonent\bin\Debug\netcoreapp2.0\Abonent.deps.json
+G:\C#\hillelHW\HW3\Abonent\bin\Debug\netcoreapp2.0\Abonent.runtimeconfig.json
+G:\C#\hillelHW\HW3\Abonent\bin\Debug\netcoreapp2.0\Abonent.runtimeconfig.dev.json
+G:\C#\hillelHW\HW3\Abonent\bin\Debug\netcoreapp2.0\Abonent.dll
+G:\C#\hillelHW\HW3\Abonent\bin\Debug\netcoreapp2.0\Abonent.pdb
+G:\C#\hillelHW\HW3\Abonent\obj\Debug\netcoreapp2.0\Abonent.csprojAssemblyReference.cache
+G:\C#\hillelHW\HW3\Abonent\obj\Debug\netcoreapp2.0\Abonent.csproj.CoreCompileInputs.cache
+G:\C#\hillelHW\HW3\Abonent\obj\Debug\netcoreapp2.0\Abonent.AssemblyInfoInputs.cache
+G:\C#\hillelHW\HW3\Abonent\obj\Debug\netcoreapp2.0\Abonent.AssemblyInfo.cs
+G:\C#\hillelHW\HW3\Abonent\obj\Debug\netcoreapp2.0\Abonent.dll
+G:\C#\hillelHW\HW3\Abonent\obj\Debug\netcoreapp2.0\Abonent.pdb
